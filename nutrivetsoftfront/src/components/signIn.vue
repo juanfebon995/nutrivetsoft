@@ -34,6 +34,9 @@
                 <input class="form-control form-icon-input" id="email" type="password" placeholder="Password">
             </div>
         </div>
+        <div id="password_config">
+            
+        </div>
     </div>
 </template>
   
