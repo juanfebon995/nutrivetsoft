@@ -251,7 +251,7 @@ export default {
 
 .form-control {
     display: block;
-    width: 100%;
+    width: 92%;
     padding: .5rem 1rem;
     font-size: 0.8rem;
     font-weight: 600;
