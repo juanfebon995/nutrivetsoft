@@ -26,4 +26,6 @@ Route::group(['prefix' => 'testing'], function(){
 
 Route::group(['prefix' => 'languaje'], function(){
     Route::get('/searchLanguaje', [LanguajeController::class, 'searchLanguaje']);
+
+    Route::post('/addDataType', [LanguajeController::class, 'addDataType']);
 });
